@@ -1,6 +1,6 @@
 {
   "name": "mcping-js",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Library for pinging Minecraft Java Edition multiplayer servers",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptkeeper/mcping-js.git"
+    "url": "git+https://github.com/Gaz492/mcping-js.git"
   },
   "keywords": [
     "minecraft",
@@ -17,7 +17,7 @@
   "author": "Nick Krecklow <hello@npm.nklow.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cryptkeeper/mcping-js/issues"
+    "url": "https://github.com/Gaz492/mcping-js/issues"
   },
-  "homepage": "https://github.com/Cryptkeeper/mcping-js#readme"
+  "homepage": "https://github.com/Gaz492/mcping-js#readme"
 }
